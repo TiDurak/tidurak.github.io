@@ -46,6 +46,22 @@ code {
   border-radius: 3px;
 }
 
+.wordmarkWindows-1v0lYD svg {
+  width: 0px;
+}
+
+/* Add custom title! */
+.wordmarkWindows-1v0lYD::after {
+  content: '';
+  display: inline-block;
+  -webkit-mask-image: url("https://tidurak.github.io/watermark.svg");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: cover;
+  background-color: var(--highlight);
+  width: 240px !important;
+  height: 14px !important;
+}
+
 .typeWindows-1za-n7 {
   background-color: var(--background);
 }
