@@ -49,6 +49,7 @@ code {
 
 .scroller-1Bvpku {
   background-color: var(--server-scroller-back);
+  border-right: 1px var(--highlight);
 }
 
 .container-3baos1 {
