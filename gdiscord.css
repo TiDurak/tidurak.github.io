@@ -330,18 +330,6 @@ code {
   border: 2px solid var(--highlight);
 }
 
-.scroller-RmtA4e {
-  border: 2px solid var(--highlight);
-  border-top: 0;
-  border-radius: 0px 0px 8px 8px;
-}
-
-.header-2V-4Sw {
-  border: 2px solid var(--highlight);
-  border-bottom: 0;
-  border-radius: 8px 8px 0px 0px;
-}
-
 #bd-pub-button {
   color: var(--highlight);
   font-weight: thin;
