@@ -1,6 +1,3 @@
-username-1A8OIy {
-  font-weight: bold;
-}
 :root {
   --highlight: rgb(164, 94, 255);
   --settingsicons: 1;
@@ -47,9 +44,16 @@ code {
   border-radius: 3px;
 }
 
+.typeWindows-1za-n7 {
+  background-color: var(--background);
+}
+
+.grid-1nZz7S {
+  background-color: var(--channel-scroller-back);
+}
+
 .scroller-1Bvpku {
   background-color: var(--server-scroller-back);
-  border-right: 1px var(--highlight);
 }
 
 .container-3baos1 {
@@ -392,16 +396,4 @@ code {
 
 .item-2hkk8m {
   background-color: var(--highlight);
-}
-
-
-
-:root {
-  /* Enabling Radial Status Support */
-  --rs-online-color: var(--online-color) !important;
-  --rs-idle-color: var(--afk-color) !important;
-  --rs-dnd-color: var(--dnd-color) !important;
-  --rs-offline-color: gray !important;
-  --rs-invisible-color: gray !important;
-  --rs-streaming-color: var(--stream-color) !important;
 }
