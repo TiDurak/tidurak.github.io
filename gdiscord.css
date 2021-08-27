@@ -47,6 +47,22 @@ code {
   border-radius: 3px;
 }
 
+.scroller-1Bvpku {
+  background-color: var(--server-scroller-back);
+}
+
+.container-3baos1 {
+  background-color: var(--channel-scroller-back);
+}
+
+.scroller-RmtA4e {
+  background-color: var(--channel-scroller-back);
+}
+
+.header-2V-4Sw {
+  background-color: var(--channel-scroller-back);
+}
+
 .replyBar-1YLQ2F {
   color: var(--background);
   background-color: var(--highlight);
